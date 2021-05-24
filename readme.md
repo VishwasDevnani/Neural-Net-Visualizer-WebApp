@@ -12,3 +12,13 @@ It is a simple web-app that is trained on famous MNIST dataset on tensorflow usi
 1. Train the model using ` python train_model.py `\ you can train the model yourself and save the weights as `model.hs`.
 2. Start the flask server using `python ml_server.py`.
 3. Now open another `cmd` and run `streamlit run app.py`(cd this to the same repo)
+
+
+## Step1:
+Run Python code and Save weights as `model.h5`
+
+## Step2:
+![](https://github.com/VishwasDevnani/Neural-Net-Visualizer-WebApp/blob/main/images/ml_server.png)
+
+## Step3:
+![](https://github.com/VishwasDevnani/Neural-Net-Visualizer-WebApp/blob/main/images/streamlit.png)
