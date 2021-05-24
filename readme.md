@@ -1,5 +1,5 @@
 # Neural-Net-Viusalizer-Webapp
-It is a simple web-app that is trained on famous MNIST dataset on tensorflow using `keras` and `streamlit`
+### It is a simple web-app that is trained on famous MNIST dataset on tensorflow using `keras` and `streamlit`
 ![](https://github.com/VishwasDevnani/Neural-Net-Visualizer-WebApp/blob/main/images/working%20example.png)
 
 # Initial Setup:
@@ -15,7 +15,7 @@ It is a simple web-app that is trained on famous MNIST dataset on tensorflow usi
 
 
 ## Step1:
-Run Python code and Save weights as `model.h5`
+#### Run Python code and Save weights as `model.h5`
 
 ## Step2:
 ![](https://github.com/VishwasDevnani/Neural-Net-Visualizer-WebApp/blob/main/images/ml_server.png)
